@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "titulo": "Paulo Afonso avança na transformação digital da gestão pública",
+    "subtitulo": "A SMTI implanta infraestrutura de dados e serviços digitais para aproximar cidadão e Prefeitura, com transparência e eficiência.",
+    "link": "#"
+  },
+
+  "nav": [
+    { "label": "Início",        "url": "#",  "ativo": true  },
+    { "label": "Secretaria",    "url": "#",  "submenu": true },
+    { "label": "Projetos",      "url": "#"  },
+    { "label": "Inovação",      "url": "#"  },
+    { "label": "Transparência", "url": "#"  },
+    { "label": "Licitações",    "url": "#"  },
+    { "label": "LGPD",          "url": "#"  },
+    { "label": "Contato",       "url": "#"  }
+  ],
+
+  "diario_oficial": "https://www.pauloafonso.ba.gov.br/diariooficial",
+
+  "header": {
+    "portal_transparencia": "https://www.pauloafonso.ba.gov.br/transparencia",
+    "ouvidoria": "https://www.pauloafonso.ba.gov.br/ouvidoria",
+    "instagram": "https://instagram.com/smtipauloafonso",
+    "youtube": "https://youtube.com/@prefeituraPA",
+    "facebook": "https://facebook.com/prefeituraPA"
+  },
+
+  "acesso_rapido": [
+    { "label": "Portal do Cidadão",  "url": "#", "icone": "globe" },
+    { "label": "Proc. Eletrônico",   "url": "#", "icone": "file-text" },
+    { "label": "Transparência",      "url": "#", "icone": "eye" },
+    { "label": "LGPD / DPO",         "url": "#", "icone": "shield" }
+  ],
+
+  "sistemas": [
+    { "nome": "NFS-e Municipal",    "descricao": "Nota Fiscal de Serviços",   "url": "#", "icone": "file-invoice" },
+    { "nome": "Portal de Licitações","descricao": "Editais e contratos",      "url": "#", "icone": "building" },
+    { "nome": "Dados Abertos",       "descricao": "Indicadores municipais",   "url": "#", "icone": "bar-chart" },
+    { "nome": "Suporte TI",          "descricao": "Chamados e atendimento",   "url": "#", "icone": "headset" }
+  ],
+
+  "projetos": [
+    {
+      "titulo": "Processo Eletrônico (SEI)",
+      "descricao": "Implantação do sistema SEI em todas as secretarias municipais, eliminando papel e agilizando a gestão documental.",
+      "progresso": 60,
+      "status": "andamento",
+      "icone": "file-text"
+    },
+    {
+      "titulo": "Plataforma de Dados Abertos",
+      "descricao": "Portal de dados municipais com indicadores de saúde, educação, obras e finanças para consulta pública.",
+      "progresso": 30,
+      "status": "andamento",
+      "icone": "database"
+    },
+    {
+      "titulo": "Adequação à LGPD",
+      "descricao": "Mapeamento de dados, treinamento de servidores e definição de políticas internas conforme a Lei 13.709/2018.",
+      "progresso": 100,
+      "status": "concluido",
+      "icone": "shield"
+    }
+  ]
+}

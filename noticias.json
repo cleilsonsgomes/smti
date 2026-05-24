@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "destaque": true,
+    "tag": "INOVAÇÃO",
+    "titulo": "SMTI e UNEB firmam parceria para ecossistema de inovação em Paulo Afonso",
+    "data": "22-05-2026",
+    "resumo": "Em mais um passo voltado à modernização tecnológica e ao fortalecimento do desenvolvimento econômico local, a Secretaria Municipal de Tecnologia e Inovação articula rede de parcerias com instituições de ensino e setor produtivo para consolidar o ecossistema de inovação do município.",
+    "link": "#",
+    "icone": "users"
+  },
+  {
+    "id": 2,
+    "destaque": false,
+    "tag": "TECNOLOGIA",
+    "titulo": "Prefeitura implanta sistema de processo eletrônico em todas as secretarias",
+    "data": "22-05-2026",
+    "resumo": "O SEI Municipal vai digitalizar a tramitação de processos administrativos, reduzindo uso de papel e agilizando o atendimento ao cidadão em todas as secretarias do município.",
+    "link": "#",
+    "icone": "monitor"
+  },
+  {
+    "id": 3,
+    "destaque": false,
+    "tag": "LGPD",
+    "titulo": "Capacitação em proteção de dados forma mais de 120 servidores municipais",
+    "data": "18-05-2026",
+    "resumo": "Programa de treinamento em conformidade com a Lei Geral de Proteção de Dados já capacitou servidores de 12 secretarias da Prefeitura de Paulo Afonso.",
+    "link": "#",
+    "icone": "shield"
+  },
+  {
+    "id": 4,
+    "destaque": false,
+    "tag": "CONECTIVIDADE",
+    "titulo": "Paulo Afonso expande rede de internet gratuita em praças e equipamentos públicos",
+    "data": "14-05-2026",
+    "resumo": "Projeto de inclusão digital leva conexão de qualidade a áreas de lazer e centros comunitários, beneficiando diretamente a população de baixa renda do município.",
+    "link": "#",
+    "icone": "wifi"
+  }
+]
